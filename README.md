@@ -4,7 +4,7 @@ Lista najpopularniejszych streamów
 `http://localhost:8080/streams`
 
  ```json
-[{"id":"39457688968","userId":"36029255","userName":"Riot Games","gameID":"21779","gameName":"League of Legends","type":"live","title":"RNG vs. T1 | Finals | 2022 Mid-Season Invitational","viewerCount":132449,"startedAt":"2022-05-29T06:00:14Z","thumbnailURL":"https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-{width}x{height}.jpg"}]
+[{"id":"1","userId":"36029255","userName":"Riot Games","gameID":"21779","gameName":"League of Legends","type":"live","title":"RNG vs. T1 | Finals | 2022 Mid-Season Invitational","viewerCount":132449,"startedAt":"2022-05-29T06:00:14Z","thumbnailURL":"https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-{width}x{height}.jpg"}]
  ```
 
 Lista wyszukanie streamerów po nazwie  
