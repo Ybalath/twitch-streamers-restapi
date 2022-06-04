@@ -36,7 +36,7 @@ POST `http://localhost:8080/streams/add`
 }
  ```
  
- GET `http://localhost:8080/streams/streams/observed/{user}`
+ GET `http://localhost:8080/streams/observed/{user}`
  
   ```json
 [{"streamerName":null,"channelID":"39250107","title":null,"startedAt":null,"thumbnail":null,"viewers":0,"live":false}]
